@@ -2,6 +2,8 @@
 
 **附件存放在本仓库的 Github Release 中**
 
+感谢 [@sharenjun](https://github.com/sharenjun) 师傅补充 `Web - QL_again` 题目的附件
+
 ## 签到
 
 ### 签到题
